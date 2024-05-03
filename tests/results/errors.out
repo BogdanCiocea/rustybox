@@ -1,0 +1,349 @@
+Test ln_error.sh
+206
+
+Test ln_simple.sh
+
+Test ln_s.sh
+
+Test ln_symbolic.sh
+
+Test chmod_add_multiple.sh
+
+Test chmod_add_one.sh
+
+Test chmod_all.sh
+
+Test chmod_del_multiple.sh
+
+Test chmod_del_one.sh
+
+Test chmod_number.sh
+
+Test chmod_user_group.sh
+
+Test echo_multiple.sh
+
+Test echo_nodescription.sh
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+geoclue:x:107:113::/var/lib/geoclue:/usr/sbin/nologin
+gnome-initial-setup:x:109:65534::/run/gnome-initial-setup/:/bin/false
+tcpdump:x:117:127::/nonexistent:/usr/sbin/nologin
+whoopsie:x:119:129::/nonexistent:/bin/false
+uuidd:x:121:130::/run/uuidd:/usr/sbin/nologin
+saned:x:123:131::/var/lib/saned:/usr/sbin/nologin
+
+Test echo_shell.sh
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+_chrony:x:106:112:Chrony daemon,,,:/var/lib/chrony:/usr/sbin/nologin
+geoclue:x:107:113::/var/lib/geoclue:/usr/sbin/nologin
+colord:x:108:116:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+nm-openvpn:x:111:118:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+avahi-autoipd:x:113:120:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
+avahi:x:114:121:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
+fwupd-refresh:x:116:126:fwupd-refresh user,,,:/run/systemd:/usr/sbin/nologin
+tcpdump:x:117:127::/nonexistent:/usr/sbin/nologin
+rtkit:x:118:128:RealtimeKit,,,:/proc:/usr/sbin/nologin
+usbmux:x:120:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+uuidd:x:121:130::/run/uuidd:/usr/sbin/nologin
+cups-pk-helper:x:122:123:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/sbin/nologin
+saned:x:123:131::/var/lib/saned:/usr/sbin/nologin
+_flatpak:x:124:133:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin
+dnsmasq:x:125:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+nvidia-persistenced:x:126:134:NVIDIA Persistence Daemon,,,:/nonexistent:/usr/sbin/nologin
+
+Test grep_simple.sh
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+
+Test echo_multiple.sh
+lorem ipsums
+
+Test echo_newline_multiple.sh
+ana are mere
+Test echo_newline_simple.sh
+loremipsum
+Test echo_simple.sh
+loremipsum
+
+Test echo_spaces.sh
+lorem ipsum
+
+Test rmdir_empty_error.sh
+196
+
+Test rmdir_exists_error.sh
+196
+196
+
+Test rmdir_link.sh
+
+Test rmdir_multiple.sh
+
+Test rmdir_simple.sh
+
+Test rm_cascade.sh
+
+Test rm_dir.sh
+
+Test rm_empty_dir.sh
+
+Test rm_error_dir.sh
+186
+
+Test rm_error_exists.sh
+186
+
+Test rm_file.sh
+
+Test rm_multiple_files.sh
+
+Test rm_multiple_mixed.sh
+
+Test rm_recursive.sh
+
+Test mkdir_error.sh
+226
+
+Test mkdir_multiple.sh
+
+Test mkdir_path_multiple.sh
+
+Test mkdir_path.sh
+
+Test mkdir_simple.sh
+
+Test mkdir_spaces.sh
+
+Test cp_error_dir.sh
+166
+
+Test cp_error_file.sh
+Invalid command
+
+Test cp_rename_dir.sh
+
+Test cp_r_file.sh
+
+Test cp_r.sh
+
+Test cp_simple_file.sh
+
+Test cp_simple_rename.sh
+
+Test mv_dir.sh
+
+Test mv_error.sh
+216
+
+Test mv_simple.sh
+
+Test cat_error.sh
+236
+
+Test cat_simple.sh
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+_chrony:x:106:112:Chrony daemon,,,:/var/lib/chrony:/usr/sbin/nologin
+geoclue:x:107:113::/var/lib/geoclue:/usr/sbin/nologin
+colord:x:108:116:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+gnome-initial-setup:x:109:65534::/run/gnome-initial-setup/:/bin/false
+speech-dispatcher:x:110:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+nm-openvpn:x:111:118:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+gdm:x:112:119:Gnome Display Manager:/var/lib/gdm3:/bin/false
+avahi-autoipd:x:113:120:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
+avahi:x:114:121:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
+tss:x:115:125:TPM software stack,,,:/var/lib/tpm:/bin/false
+fwupd-refresh:x:116:126:fwupd-refresh user,,,:/run/systemd:/usr/sbin/nologin
+tcpdump:x:117:127::/nonexistent:/usr/sbin/nologin
+rtkit:x:118:128:RealtimeKit,,,:/proc:/usr/sbin/nologin
+whoopsie:x:119:129::/nonexistent:/bin/false
+usbmux:x:120:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+uuidd:x:121:130::/run/uuidd:/usr/sbin/nologin
+cups-pk-helper:x:122:123:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/sbin/nologin
+saned:x:123:131::/var/lib/saned:/usr/sbin/nologin
+_flatpak:x:124:133:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin
+dnsmasq:x:125:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+nvidia-persistenced:x:126:134:NVIDIA Persistence Daemon,,,:/nonexistent:/usr/sbin/nologin
+bogdan:x:1000:1000:Bogdan Ciocea:/home/bogdan:/bin/bash
+
+Test cat_triple.sh
+donuts
+ay caramba
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:102:105::/nonexistent:/usr/sbin/nologin
+systemd-timesync:x:103:106:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+syslog:x:104:111::/home/syslog:/usr/sbin/nologin
+_apt:x:105:65534::/nonexistent:/usr/sbin/nologin
+_chrony:x:106:112:Chrony daemon,,,:/var/lib/chrony:/usr/sbin/nologin
+geoclue:x:107:113::/var/lib/geoclue:/usr/sbin/nologin
+colord:x:108:116:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
+gnome-initial-setup:x:109:65534::/run/gnome-initial-setup/:/bin/false
+speech-dispatcher:x:110:29:Speech Dispatcher,,,:/run/speech-dispatcher:/bin/false
+nm-openvpn:x:111:118:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+gdm:x:112:119:Gnome Display Manager:/var/lib/gdm3:/bin/false
+avahi-autoipd:x:113:120:Avahi autoip daemon,,,:/var/lib/avahi-autoipd:/usr/sbin/nologin
+avahi:x:114:121:Avahi mDNS daemon,,,:/run/avahi-daemon:/usr/sbin/nologin
+tss:x:115:125:TPM software stack,,,:/var/lib/tpm:/bin/false
+fwupd-refresh:x:116:126:fwupd-refresh user,,,:/run/systemd:/usr/sbin/nologin
+tcpdump:x:117:127::/nonexistent:/usr/sbin/nologin
+rtkit:x:118:128:RealtimeKit,,,:/proc:/usr/sbin/nologin
+whoopsie:x:119:129::/nonexistent:/bin/false
+usbmux:x:120:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+uuidd:x:121:130::/run/uuidd:/usr/sbin/nologin
+cups-pk-helper:x:122:123:user for cups-pk-helper service,,,:/home/cups-pk-helper:/usr/sbin/nologin
+saned:x:123:131::/var/lib/saned:/usr/sbin/nologin
+_flatpak:x:124:133:Flatpak system-wide installation helper,,,:/nonexistent:/usr/sbin/nologin
+dnsmasq:x:125:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+nvidia-persistenced:x:126:134:NVIDIA Persistence Daemon,,,:/nonexistent:/usr/sbin/nologin
+bogdan:x:1000:1000:Bogdan Ciocea:/home/bogdan:/bin/bash
+
+Test ls_all_r.sh
+.hidden
+modern family
+pritchett
+joe
+gloria
+jay
+dunphy
+.alex
+claire
+phil
+TVshows
+
+
+Test ls_all.sh
+.hidden
+modern
+gloria
+family
+
+
+Test ls_dir.sh
+modern
+gloria
+family
+
+Test ls_err.sh
+Invalid command
+
+Test ls_file.sh
+lstest/test
+
+Test ls_l_r.sh
+Invalid command
+
+
+Test ls_l.sh
+Invalid command
+
+
+Test ls_r.sh
+modern family
+pritchett
+joe
+gloria
+jay
+dunphy
+claire
+phil
+TVshows
+
+
+Test ls_simple.sh
+README.md
+verify
+run_all.sh
+output
+errors
+results
+
+Test pwd.sh
+/home/bogdan/Desktop/anul_2/sem1/pclp4/tema1/rustybox-BogdanCiocea-main/tests
+
+Test invalid_chmod.sh
+Invalid command
+
+Test invalid_command.sh
+Invalid command
+
+Test invalid_parameters2.sh
+Invalid command
+
+Test invalid_parameters.sh
+Invalid command
+
+Test touch_a.sh
+
+
+Test touch_m.sh
+
+Test touch_no_create_new.sh
+
+Test touch_simple_exists.sh
+
+
+Test touch_simple.sh
+

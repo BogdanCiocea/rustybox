@@ -1,0 +1,2857 @@
+./verify/ln/ln_simple.sh: line 12: node: command not found
+./verify/ln/ln_s.sh: line 12: node: command not found
+./verify/chmod/chmod_add_multiple.sh: line 16: node: command not found
+./verify/chmod/chmod_add_one.sh: line 17: node: command not found
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+./verify/mkdir/mkdir_multiple.sh: line 12: node: command not found
+./verify/mkdir/mkdir_path_multiple.sh: line 13: node: command not found
+./verify/mkdir/mkdir_path.sh: line 12: node: command not found
+./verify/mkdir/mkdir_spaces.sh: line 12: node: command not found
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+./verify/ls/ls_simple.sh: line 11: node: command not found
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_command.sh.out and results/invalid_command.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+./verify/touch/touch_no_create_new.sh: line 9: rustybox: command not found
+cat: results/touch_no_create_new.sh.out: No such file or directory
+./verify/ln/ln_simple.sh: line 12: node: command not found
+./verify/ln/ln_s.sh: line 12: node: command not found
+./verify/chmod/chmod_add_multiple.sh: line 16: node: command not found
+./verify/chmod/chmod_add_one.sh: line 17: node: command not found
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+./verify/mkdir/mkdir_multiple.sh: line 12: node: command not found
+./verify/mkdir/mkdir_path_multiple.sh: line 13: node: command not found
+./verify/mkdir/mkdir_path.sh: line 12: node: command not found
+./verify/mkdir/mkdir_spaces.sh: line 12: node: command not found
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+./verify/ls/ls_simple.sh: line 11: node: command not found
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_command.sh.out and results/invalid_command.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+./verify/touch/touch_no_create_new.sh: line 9: rustybox: command not found
+cat: results/touch_no_create_new.sh.out: No such file or directory
+./verify/ln/ln_simple.sh: line 12: node: command not found
+./verify/ln/ln_s.sh: line 12: node: command not found
+./verify/chmod/chmod_add_multiple.sh: line 16: node: command not found
+./verify/chmod/chmod_add_one.sh: line 17: node: command not found
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+./verify/mkdir/mkdir_multiple.sh: line 12: node: command not found
+./verify/mkdir/mkdir_path_multiple.sh: line 13: node: command not found
+./verify/mkdir/mkdir_path.sh: line 12: node: command not found
+./verify/mkdir/mkdir_spaces.sh: line 12: node: command not found
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+./verify/ls/ls_simple.sh: line 11: node: command not found
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_command.sh.out and results/invalid_command.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+./verify/touch/touch_no_create_new.sh: line 9: rustybox: command not found
+cat: results/touch_no_create_new.sh.out: No such file or directory
+./verify/ln/ln_simple.sh: line 12: node: command not found
+./verify/ln/ln_s.sh: line 12: node: command not found
+./verify/chmod/chmod_add_multiple.sh: line 16: node: command not found
+./verify/chmod/chmod_add_one.sh: line 17: node: command not found
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+./verify/mkdir/mkdir_multiple.sh: line 12: node: command not found
+./verify/mkdir/mkdir_path_multiple.sh: line 13: node: command not found
+./verify/mkdir/mkdir_path.sh: line 12: node: command not found
+./verify/mkdir/mkdir_spaces.sh: line 12: node: command not found
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+./verify/ls/ls_simple.sh: line 11: node: command not found
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_command.sh.out and results/invalid_command.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+./verify/touch/touch_no_create_new.sh: line 9: rustybox: command not found
+cat: results/touch_no_create_new.sh.out: No such file or directory
+timeout: failed to run command ‘./verify/verify/pwd/pwd.sh’: No such file or directory
+cat: results/pwd.sh.out: No such file or directory
+cat: results/pwd.sh.test: No such file or directory
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Error: ENOENT: no such file or directory, stat 'ln_lnfile'
+    at Object.statSync (fs.js:1016:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:33:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'stat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Error: ENOENT: no such file or directory, lstat 'ln_lnfile'
+    at Object.lstatSync (fs.js:1007:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:9:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'lstat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+Error: ENOENT: no such file or directory, access 'harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'harry potter'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry potter'
+}
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_command.sh.out and results/invalid_command.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+./verify/touch/touch_no_create_new.sh: line 9: rustybox: command not found
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Error: ENOENT: no such file or directory, stat 'ln_lnfile'
+    at Object.statSync (fs.js:1016:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:33:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'stat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Error: ENOENT: no such file or directory, lstat 'ln_lnfile'
+    at Object.lstatSync (fs.js:1007:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:9:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'lstat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+Error: ENOENT: no such file or directory, access 'harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'harry potter'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry potter'
+}
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_command.sh.out and results/invalid_command.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+./verify/touch/touch_no_create_new.sh: line 9: rustybox: command not found
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Error: ENOENT: no such file or directory, stat 'ln_lnfile'
+    at Object.statSync (fs.js:1016:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:33:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'stat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Error: ENOENT: no such file or directory, lstat 'ln_lnfile'
+    at Object.lstatSync (fs.js:1007:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:9:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'lstat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+Error: ENOENT: no such file or directory, access 'harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'harry potter'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry potter'
+}
+Error: ENOENT: no such file or directory, stat 'ln_lnfile'
+    at Object.statSync (fs.js:1016:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:33:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'stat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Error: ENOENT: no such file or directory, lstat 'ln_lnfile'
+    at Object.lstatSync (fs.js:1007:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:9:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'lstat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+Error: ENOENT: no such file or directory, access 'harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'harry potter'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry potter'
+}
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_command.sh.out and results/invalid_command.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+./verify/touch/touch_no_create_new.sh: line 9: rustybox: command not found
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Error: ENOENT: no such file or directory, stat 'ln_lnfile'
+    at Object.statSync (fs.js:1016:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:33:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'stat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Error: ENOENT: no such file or directory, lstat 'ln_lnfile'
+    at Object.lstatSync (fs.js:1007:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/ln/ln.js:9:27)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'lstat',
+  code: 'ENOENT',
+  path: 'ln_lnfile'
+}
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+Error: ENOENT: no such file or directory, access 'harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'output/harry'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'output/harry'
+}
+Error: ENOENT: no such file or directory, access 'harry potter'
+    at Object.accessSync (fs.js:208:3)
+    at Object.<anonymous> (/home/bogdan/Desktop/anul_2/pclp4/tema1/rustybox-BogdanCiocea-main/tests/verify/mkdir/mkdir.js:7:12)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47 {
+  errno: -2,
+  syscall: 'access',
+  code: 'ENOENT',
+  path: 'harry potter'
+}
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/pwd.sh.out and results/pwd.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_command.sh.out and results/invalid_command.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+./verify/touch/touch_no_create_new.sh: line 9: rustybox: command not found
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Invalid command
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+rm: cannot remove 'my_super_file': No such file or directory
+cat: results/touch_no_create_new.sh.out: No such file or directory
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Files results/invalid_parameters.sh.out and results/invalid_parameters.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+timeout: failed to run command ‘./verify/ls/ls.sh’: No such file or directory
+cat: results/ls.sh.out: No such file or directory
+cat: results/ls.sh.test: No such file or directory
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/echo_multiple.sh.out and results/echo_multiple.sh.test differ
+Files results/echo_newline_multiple.sh.out and results/echo_newline_multiple.sh.test differ
+Files results/echo_newline_simple.sh.out and results/echo_newline_simple.sh.test differ
+Files results/echo_simple.sh.out and results/echo_simple.sh.test differ
+Files results/echo_spaces.sh.out and results/echo_spaces.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_parameters2.sh.out and results/invalid_parameters2.sh.test differ
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Incorrect output.
+Incorrect output.
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+Files results/invalid_chmod.sh.out and results/invalid_chmod.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+Files results/ls_file.sh.out and results/ls_file.sh.test differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
+output/express/cpfile
+farnsworth
+leela
+output/express/express/leela
+Files output/testmv and output/bender differ
